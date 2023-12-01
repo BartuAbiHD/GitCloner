@@ -4,5 +4,5 @@ Git Cloner Program
 # Tutorial Video
 https://youtu.be/uertrqS5he4
 
-# License
-https://choosealicense.com/licenses/mit
+# Latest Version
+[https://github.com/BartuAbiHD/GitCloner/releases](Click Here)
