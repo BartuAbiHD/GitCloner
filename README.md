@@ -5,4 +5,4 @@ Git Cloner Program
 https://youtu.be/uertrqS5he4
 
 # Latest Version
-[https://github.com/BartuAbiHD/GitCloner/releases](Click Here)
+[Click Here](https://github.com/BartuAbiHD/GitCloner/releases)
